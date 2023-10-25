@@ -1,6 +1,9 @@
 # DownloadFile
 A program that downloads files
 
-```Mermaid
-Remove_secure_warnings-> (_CRT_SECURE_NO_WARNINGS)
-```
+classDiagram
+class BankAccount
+BankAccount : +String owner
+BankAccount : +BigDecimal balance
+BankAccount : +deposit(amount)
+BankAccount : +withdrawal(amount)
