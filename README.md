@@ -1,8 +1,8 @@
 # DownloadFile
 A program that downloads files
 
-```mermaid
-grap LR
+```Mermaid
+graph LR
 Remove_secure_warnings->(_CRT_SECURE_NO_WARNINGS)
 
 ```
