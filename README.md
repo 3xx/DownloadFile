@@ -2,9 +2,7 @@
 A program that downloads files
 ```mermaid
 classDiagram
-class BankAccount
-BankAccount : +String owner
-BankAccount : +BigDecimal balance
-BankAccount : +deposit(amount)
-BankAccount : +withdrawal(amount)
+class Remove_secure_warnings
+BankAccount : _CRT_SECURE_NO_WARNINGS
+
 ```
